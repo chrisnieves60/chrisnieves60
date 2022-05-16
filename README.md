@@ -1,11 +1,11 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About Me 🥸
-- 👨‍🎓 Undergraduate student in CUNY - College of Staten Island.
-- 🌱 Aspring web developer.
-- 🔭 Expanding my knowledge on React!
-- 🎮 I love to play story and competitive games.
-- 🏀 Play basketball and soccer, and recently started weightlifting. 🏋️‍♂️
+- 👨‍🎓 Student at The College Of Staten island
+- 🎮 I love to play competative games
+- 🏀 Play basketball and soccer, but I am super unathletic :(
+- My favorite programming languages are Javascript and Java!
+- Love working with React <3
 ### 📫 Connect with me on LinkedIn!
 [![LinkedIn](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/christopher-nieves/)
 ##
