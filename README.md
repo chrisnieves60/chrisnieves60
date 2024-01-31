@@ -12,3 +12,15 @@
 
 ![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnieves60&theme=dark&layout=compact&card_width=445&langs_count=10)
 
+## Retropricer
+
+Description: A web app that tracks pricing history of retro video game consoles on the second-hand market.
+
+[Project Repository](github.com/chrisnieves60/retropricer) | [Live Demo](retropricer.vercel.app)
+
+## NBA Card Collector
+
+Description: A web app that simulates basketball card collector packs. 
+
+[Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) | [Live Demo](https://ggc-numahn.vercel.app/)
+
