@@ -6,8 +6,7 @@
 - 🏀 Play basketball and soccer, but I am super unathletic :(
 - My favorite programming languages are Javascript and Java!
 - Love working with React <3
-### 📫 Connect with me on LinkedIn!
-[![LinkedIn](https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png)](https://www.linkedin.com/in/christopher-nieves/)
+
 ##
 ![Christophers's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisnieves60&theme=dark&show_icons=true)
 
