@@ -16,7 +16,7 @@
 
 Description: A web app that tracks pricing history of retro video game consoles on the second-hand market.
 
-[Project Repository] (/retropricer) | [Live Demo](retropricer.vercel.app)
+[Project Repository](https://github.com/chrisnieves60/retropricer) | [Live Demo](https://retropricer.vercel.app)
 
 ## NBA Card Collector
 
