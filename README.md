@@ -14,19 +14,19 @@
 
 ## Retropricer
 
-Description: A web app that tracks pricing history of retro video game consoles on the second-hand market.
+Description: An application that tracks pricing history of retro video game consoles on ebay 
 
 [Project Repository](https://github.com/chrisnieves60/retropricer) | [Live Demo](https://retropricer.vercel.app)
 
 ## NBA Card Collector
 
-Description: A web app that simulates basketball card collector packs. 
+Description: A web application that simulates basketball card packs1
 
 [Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) | [Live Demo](https://ggc-numahn.vercel.app/)
 
 ## Stockify
 
-Description: A web app tracks stock price from the AlphaVantage API
+Description: An application that tracks stock price from the AlphaVantage API
 
 [Project Repository](https://github.com/chrisnieves60/tensorwave) | [Live Demo](stockify-nu.vercel.app)
 
