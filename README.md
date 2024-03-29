@@ -24,9 +24,9 @@ Description: A web app that simulates basketball card collector packs.
 
 [Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) | [Live Demo](https://ggc-numahn.vercel.app/)
 
-## Stock Tracker
+## Stockify
 
 Description: A web app tracks stock price from the AlphaVantage API
 
-[Project Repository](https://github.com/chrisnieves60/tensorflow) | [Live Demo](https://ggc-numahn.vercel.app/)
+[Project Repository](https://github.com/chrisnieves60/tensorwave) | [Live Demo](stockify-nu.vercel.app)
 
