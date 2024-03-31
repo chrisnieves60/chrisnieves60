@@ -2,10 +2,14 @@
 # Heres a link to my website! https://christophernieves.vercel.app/
 ## About Me 🥸
 - 👨‍🎓 Student at The College Of Staten island
-- 🎮 I love to play competative games
-- 🏀 Play basketball and soccer, but I am super unathletic :(
+- 🎮 I love to play competitive games
+- 🏀 Play basketball and soccer
 - My favorite programming languages are Javascript and Java!
 - Love working with React <3
+
+## Links 🔗
+[![Linkedin Badge](https://img.shields.io/badge/-ChristopherNieves-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-nieves/)](https://www.linkedin.com/in/christopher-nieves/)
+[![Gmail Badge](https://img.shields.io/badge/-chrisnieves60-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chrisnieves60@gmail.com)](mailto:chrisnieves60@gmail.com)
 
 ##
 ![Christophers's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisnieves60&theme=dark&show_icons=true)
