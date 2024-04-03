@@ -32,5 +32,5 @@ Description: A web application that simulates basketball card packs1
 
 Description: An application that tracks stock price from the AlphaVantage API
 
-[Project Repository](https://github.com/chrisnieves60/tensorwave) | [Live Demo](stockify-nu.vercel.app)
+[Project Repository](https://github.com/chrisnieves60/tensorwave) | [Live Demo](http://stockify-nu.vercel.app)
 
