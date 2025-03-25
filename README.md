@@ -25,7 +25,7 @@ Description: An application that tracks pricing history of retro video game cons
 
 Description: A web application that simulates basketball card packs1
  
-[Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) | [Live Demo](https://ggc-numahn.vercel.app/)
+[Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) 
 
 ## Stockify 📈
 
