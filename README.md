@@ -1,5 +1,4 @@
 # Hello there! 
-# Heres a link to my website! https://christophernieves.vercel.app/
 ## About Me 
 - 👨‍🎓 Student at The College Of Staten island
 - 🎮 I love to play competitive games
