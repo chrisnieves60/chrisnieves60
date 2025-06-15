@@ -1,3 +1,30 @@
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Some Cool Projects***
+
+## Calify 🥗
+
+Description: A mobile application built in Swift that tracks calories via Natural Language Input with an AI Backend 
+
+[Project Repository](https://github.com/chrisnieves60/Calify) | [Live Demo](https://testflight.apple.com/join/ExcyH5pN))
+> **Note:** ⚠️ The actual live code is private as it contains proprietary code and API integrations. Check Project Repository for more info
+## Retropricer 🎮
+
+Description: An application that tracks pricing history of retro video game consoles on ebay 
+
+[Project Repository](https://github.com/chrisnieves60/retropricer) | [Live Demo](https://retropricer.vercel.app)
+
+## NBA Card Collector 🏀
+
+Description: A web application that simulates basketball card packs1
+ 
+[Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) 
+
+## Stockify 📈
+
+Description: An application that tracks stock price from the AlphaVantage API
+
+[Project Repository](https://github.com/chrisnieves60/tensorwave) | [Live Demo](http://stockify-nu.vercel.app)
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/chrisnieves60">Christopher</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
@@ -72,32 +99,6 @@ I am a **Computer Science** graduate with 1+ year of experience in software engi
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)<br>
 <br>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Some Cool Projects***
-
-## Calify 🥗
-
-Description: A mobile application built in Swift that tracks calories via Natural Language Input with an AI Backend 
-
-> **Note:** ⚠️ The project repository is private as it contains proprietary code and API integrations. Demo available upon request.
-> [Live Demo]([https://retropricer.vercel.app](https://testflight.apple.com/join/ExcyH5pN)) 
-## Retropricer 🎮
-
-Description: An application that tracks pricing history of retro video game consoles on ebay 
-
-[Project Repository](https://github.com/chrisnieves60/retropricer) | [Live Demo](https://retropricer.vercel.app)
-
-## NBA Card Collector 🏀
-
-Description: A web application that simulates basketball card packs1
- 
-[Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) 
-
-## Stockify 📈
-
-Description: An application that tracks stock price from the AlphaVantage API
-
-[Project Repository](https://github.com/chrisnieves60/tensorwave) | [Live Demo](http://stockify-nu.vercel.app)
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
