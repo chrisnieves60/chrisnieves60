@@ -1,29 +1,35 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Some Cool Projects***
 
-## Calify 🥗
+## Calify 🥗  
+A mobile app built in Swift that tracks calories via Natural Language Input with an AI backend.
 
-Description: A mobile application built in Swift that tracks calories via Natural Language Input with an AI Backend 
+[![Repo](https://img.shields.io/badge/Repo-Calify-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/Calify) &nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/TestFlight%20Demo-Available-brightgreen?style=for-the-badge&logo=apple)](https://testflight.apple.com/join/ExcyH5pN)
 
-[Project Repository](https://github.com/chrisnieves60/Calify) | [Live Demo](https://testflight.apple.com/join/ExcyH5pN))
-> **Note:** ⚠️ The actual live code is private as it contains proprietary code and API integrations. Check Project Repository for more info
-## Retropricer 🎮
+> ⚠️ The actual live code is private as it contains proprietary code and API integrations. Demo available via TestFlight.
 
-Description: An application that tracks pricing history of retro video game consoles on ebay 
+---
 
-[Project Repository](https://github.com/chrisnieves60/retropricer) | [Live Demo](https://retropricer.vercel.app)
+## RetroPricer 🎮  
+An application that tracks pricing history of retro video game consoles on eBay.
 
-## NBA Card Collector 🏀
+[![Repo](https://img.shields.io/badge/Repo-RetroPricer-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/retropricer) &nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live-Available-brightgreen?style=for-the-badge&logo=vercel)](https://retropricer.vercel.app)
 
-Description: A web application that simulates basketball card packs1
- 
-[Project Repository](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend) 
+---
 
-## Stockify 📈
+## NBA Card Collector 🏀  
+A web application that simulates basketball card packs.
 
-Description: An application that tracks stock price from the AlphaVantage API
+[![Repo](https://img.shields.io/badge/Repo-NBA_Card_Collector-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend)
 
-[Project Repository](https://github.com/chrisnieves60/tensorwave) | [Live Demo](http://stockify-nu.vercel.app)
+---
 
+## Stockify 📈  
+An application that tracks stock prices using the AlphaVantage API.
+
+[![Repo](https://img.shields.io/badge/Repo-Stockify-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/tensorwave) &nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live-Available-brightgreen?style=for-the-badge&logo=vercel)](http://stockify-nu.vercel.app)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/chrisnieves60">Christopher</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -81,8 +87,7 @@ I am a **Computer Science** graduate with 1+ year of experience in software engi
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ###### Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
