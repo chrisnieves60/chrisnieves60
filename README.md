@@ -1,7 +1,18 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Some Cool Projects***
+<h1>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;" />
+  <b style="font-size: 24px;">&nbsp;Some Cool Projects</b>
+</h1>
+
+## RetroPricer 🎮  
+Visualize pricing history of retro video game consoles on eBay. Built with **React/Supabase/AWS**
+
+[![Repo](https://img.shields.io/badge/Repo-RetroPricer-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/retropricer) &nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live-Available-brightgreen?style=for-the-badge&logo=vercel)](https://retropricer.vercel.app)
+
+---
 
 ## Calify 🥗  
-A mobile app built in Swift that tracks calories via Natural Language Input with an AI backend.
+Tracks calories via Natural Language Input with an AI backend. Built in **Swift**
 
 [![Repo](https://img.shields.io/badge/Repo-Calify-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/Calify) &nbsp;&nbsp;
 [![Live Demo](https://img.shields.io/badge/TestFlight%20Demo-Available-brightgreen?style=for-the-badge&logo=apple)](https://testflight.apple.com/join/ExcyH5pN)
@@ -10,23 +21,15 @@ A mobile app built in Swift that tracks calories via Natural Language Input with
 
 ---
 
-## RetroPricer 🎮  
-An application that tracks pricing history of retro video game consoles on eBay.
-
-[![Repo](https://img.shields.io/badge/Repo-RetroPricer-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/retropricer) &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live-Available-brightgreen?style=for-the-badge&logo=vercel)](https://retropricer.vercel.app)
-
----
-
 ## NBA Card Collector 🏀  
-A web application that simulates basketball card packs.
+A **full-stack web app** that simulates basketball card packs.
 
 [![Repo](https://img.shields.io/badge/Repo-NBA_Card_Collector-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/TTP-Capstone-Project-Frontend)
 
 ---
 
 ## Stockify 📈  
-An application that tracks stock prices using the AlphaVantage API.
+A **Frontend web app** that tracks stock prices using the AlphaVantage API.
 
 [![Repo](https://img.shields.io/badge/Repo-Stockify-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/tensorwave) &nbsp;&nbsp;
 [![Live Demo](https://img.shields.io/badge/Live-Available-brightgreen?style=for-the-badge&logo=vercel)](http://stockify-nu.vercel.app)
