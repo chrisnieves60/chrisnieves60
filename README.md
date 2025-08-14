@@ -15,9 +15,9 @@ Visualize pricing history of retro video game consoles on eBay. Built with **Rea
 Tracks calories via Natural Language Input with an AI backend. Built in **Swift**
 
 [![Repo](https://img.shields.io/badge/Repo-Calify-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/Calify) &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/TestFlight%20Demo-Available-brightgreen?style=for-the-badge&logo=apple)](https://testflight.apple.com/join/ExcyH5pN)
+[![Live Demo](https://img.shields.io/badge/AppStore%20Live-Available-brightgreen?style=for-the-badge&logo=apple)](apps.apple.com/us/app/calify/id6746539000?platform=iphone)
 
-> ⚠️ The actual live code is private as it contains proprietary code and API integrations. Demo available via TestFlight.
+> ⚠️ The actual live code is private as it contains proprietary code and API integrations. Live on the app store.
 
 ---
 
