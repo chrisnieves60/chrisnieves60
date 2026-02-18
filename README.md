@@ -7,14 +7,13 @@
 Visualize pricing history of retro video game consoles on eBay. Built with **React/Supabase/AWS**
 
 [![Repo](https://img.shields.io/badge/Repo-RetroPricer-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/retropricer) &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live-Available-brightgreen?style=for-the-badge&logo=vercel)](https://retropricer.vercel.app)
 
 ---
 
 ## AI CPT Coding Assistant 
 A clinical coding assistant that captures encounter notes in a React UI and runs a FastAPI RAG-style agent that retrieves CPT/HCPCS context from local data (with web-based fallback search) to generate structured billing codes and descriptions. Built with **LangChain/FastAPI/React**
 
-[![Repo](https://img.shields.io/badge/Repo-CPT Coding Assistant-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/AI-CPT-Coding-Assistant) &nbsp;&nbsp;
+[![Repo](https://img.shields.io/badge/Repo-CPT_Coding_Assistant-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/AI-CPT-Coding-Assistant) &nbsp;&nbsp;
 
 ---
 
