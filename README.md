@@ -46,10 +46,10 @@ A **Frontend web app** that tracks stock prices using the AlphaVantage API.
 
 <img align="right" width=400px alt="Unicorn" src="https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5MzkyNDUsIm5iZiI6MTc0OTkzODk0NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDAxMjEtNjM1N2ViMzctM2EwZS00ZWZlLWIwMTUtY2U4YjE0ZTkxMGQ2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDIyMDkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMmZkMzQ5ODg1NTY3ZmZkOTAwZTM3YTY2Yjc4ODg1NjMxNjVkOTUzN2E2YTcxOGU5ZjcwN2MwYzg2ZTdhYTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iEtBoK-JTZ8n5x2VHwLtHSQmDW_tY-GFb5wRZRPtDjs"/>
 
-I am a **Computer Science** graduate with 1+ year of experience in software engineering. 
+I am a **Computer Science** graduate with 2+ years of experience in software engineering. 
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, 🏋️‍♂️ Love soccer, running and lifting.
+- Outside tech, I enjoy 🏋️‍♂️ running/lifting,  🎮 playing video games, and 🎒traveling!
 - 📫 Reach out to me at: <a href="chrisnieves60@gmail.com">chrisnieves60@gmail.com</a>
 <br>
 
