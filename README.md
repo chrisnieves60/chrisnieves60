@@ -11,13 +11,18 @@ Visualize pricing history of retro video game consoles on eBay. Built with **Rea
 
 ---
 
+## AI CPT Coding Assistant 
+A clinical coding assistant that captures encounter notes in a React UI and runs a FastAPI RAG-style agent that retrieves CPT/HCPCS context from local data (with web-based fallback search) to generate structured billing codes and descriptions.
+[![Repo](https://github.com/chrisnieves60/AI-CPT-Coding-Assistant) 
+
+---
+
 ## Calify 🥗  
 Tracks calories via Natural Language Input with an AI backend. Built in **Swift**
 
 [![Repo](https://img.shields.io/badge/Repo-Calify-blue?style=for-the-badge&logo=github)](https://github.com/chrisnieves60/Calify) &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/AppStore%20Live-Available-brightgreen?style=for-the-badge&logo=apple)](https://apps.apple.com/us/app/calify/id6746539000?platform=iphone)
 
-> ⚠️ The actual live code is private as it contains proprietary code and API integrations. Live on the app store.
+> ⚠️ The actual live code is private as it contains proprietary code and API integrations. Check out the Readme for details. 
 
 ---
 
